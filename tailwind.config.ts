@@ -61,6 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				cannabis: {
+					green: 'hsl(var(--cannabis-green))',
+					brown: 'hsl(var(--cannabis-brown))',
+					paper: 'hsl(var(--cannabis-paper))',
+					ash: 'hsl(var(--cannabis-ash))'
 				}
 			},
 			borderRadius: {
