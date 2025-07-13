@@ -1,7 +1,7 @@
-import LoadingScreen from "@/components/LoadingScreen";
+import LoadingScreen3D from "@/components/LoadingScreen3D";
 
 const Index = () => {
-  return <LoadingScreen />;
+  return <LoadingScreen3D />;
 };
 
 export default Index;
